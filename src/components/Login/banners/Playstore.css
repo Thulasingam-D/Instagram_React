@@ -1,0 +1,13 @@
+.google-play-card {
+    background-color: black;
+    padding: 5px 10px;
+    display: inline-block;
+    box-shadow: none;
+    cursor: pointer;
+  }
+  
+  .google-play-img {
+    width: 120px;
+    height: auto;
+  }
+  

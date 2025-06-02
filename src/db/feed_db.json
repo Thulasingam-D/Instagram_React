@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": "17895695668004550",
+      "username": "sunsetlover",
+      "caption": "Sunset vibes 🌅",
+      "media_type": "IMAGE",
+      "profile": "src/assets/profile_images/boy-8847074_640.jpg",
+      "timestamp": "2025-04-10T18:45:00+0000",
+      "post":"src/assets/post_images/sunset-3416768_1280.jpg",
+      "likes":"231"
+    },
+    {
+      "id": "17895695668004551",
+      "username": "travelbuddy",
+      "caption": "Exploring Kyoto 🇯🇵🗺️ #wanderlust",
+      "media_type": "CAROUSEL_ALBUM",
+      "profile": "src/assets/profile_images/doctor-8781659_640.jpg",
+
+      "timestamp": "2025-04-09T09:30:00+0000",
+      "post":"src/assets/post_images/alley-5931413_1280.jpg",
+
+      "likes":"439"
+
+    },
+    {
+      "id": "17895695668004552",
+      "username": "chef.jane",
+      "caption": "Homemade gnocchi with pesto sauce 🍝✨",
+      "media_type": "IMAGE",
+      "profile": "src/assets/profile_images/girl-4662158_640.jpg",
+      "timestamp": "2025-04-08T14:12:00+0000",
+      "post":"src/assets/post_images/pasta-4931213_1280.jpg",
+      "likes":"123"
+
+    },
+    {
+      "id": "17895695668004553",
+      "username": "fitness.freak",
+      "caption": "Leg day grind 💪🔥 #fitnessmotivation",
+      "media_type": "IMAGE",
+      "profile": "src/assets/profile_images/girl-6363743_640.jpg",
+      "timestamp": "2025-04-07T06:00:00+0000",
+      "post": "src/assets/post_images/man-1282232_1280.jpg",
+      "likes":"241"
+
+    },
+    {
+      "id": "17895695668004554",
+      "username": "artsy_ava",
+      "caption": "Finished my latest digital piece 🎨🖌️",
+      "media_type": "IMAGE",
+      "profile": "src/assets/profile_images/girl-7847557_640.jpg",
+      "timestamp": "2025-04-06T22:20:00+0000",
+      "post": "src/assets/post_images/ballet-1634888_1280.jpg",
+      "likes":"761"
+    }
+  ]
+  
+}

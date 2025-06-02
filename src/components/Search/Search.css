@@ -1,0 +1,14 @@
+#input{
+    border-radius: 50px;
+    border: solid 1px black;
+    outline: none;
+}
+
+.input{
+    outline: none;
+}
+
+.container{
+    background: transparent;
+    backdrop-filter: blur(10px);
+}

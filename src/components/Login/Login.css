@@ -1,0 +1,49 @@
+
+#form_input1{
+  font-size: small;
+  outline: none;
+  border: 1px solid #ffffff56;
+  border-radius: 5px;
+}
+
+#form_input2{
+  font-size: small;
+  outline: none;
+  border: 1px solid #ffffff56;
+  border-radius: 5px;
+}
+
+#form_btn{
+  font-size: small;
+  border: none;
+  color: white;
+  font-weight: 700;
+  border-radius: 8px;
+  background-color: rgb(41, 127, 255);
+}
+
+#hr{
+  color: #ffffff52;
+}
+
+#fb_img{
+  filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg);
+  fill: rgb(41, 127, 255)
+}
+  
+#fb_text{
+  /* color: rgb(41, 127, 255); */
+  font-weight: 600
+}
+
+  #ok{
+    position: relative;
+    bottom: 15px;
+    background-color: black;
+  }
+
+.container{
+  margin-top: 5%;
+  border: solid 1px rgba(204, 204, 204, 0.13);
+  border-radius: 10px;
+}

@@ -1,0 +1,19 @@
+.story{
+    height: 100px;
+}
+
+.story_pic{
+    width: 70px;
+    border: solid 2px rgb(255, 255, 255);
+}
+
+.gradiant_border{
+    width: 75px;
+    height: 75px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: linear-gradient(45deg,#ff00ff, #ff6600, #ffcc00);
+}

@@ -1,0 +1,12 @@
+.lists li{
+    list-style: none;
+}
+
+.more li{
+    list-style: none;
+}
+
+.more{
+    position: relative;
+    top: 100px;
+}

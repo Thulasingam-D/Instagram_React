@@ -1,0 +1,63 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  /* Wrapper for the navigation menu */
+  div {
+    background-color: #fff;
+    padding: 10px 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Style for unordered lists */
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  /* Style for each list item */
+  li {
+    margin-right: 20px;
+  }
+  
+  /* Style for links */
+  a {
+    text-decoration: none;
+    color: #333;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 4px;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  /* Hover effect for links */
+  a:hover {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  /* Styling for the "More" link section */
+  ul:last-child {
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  /* Optional: Adding space between items in the second list */
+  ul:last-child li {
+    margin-top: 5px;
+  }
+  
+  /* Optional: Add a divider line between the two lists */
+  ul:first-child {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+  }
+  
